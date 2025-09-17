@@ -1,0 +1,51 @@
+# School Timetable Assignment (2024/2025)
+
+This project is a **school timetable** built using **HTML and CSS**.  
+It covers classes for **Years 7–9, Monday to Friday**, with proper structure, styling, and accessibility features.
+
+---
+
+## 📂 Project Structure
+
+---
+
+## 🛠 Features
+- Timetable built with `<table>` elements.  
+- Proper use of **rowspan** and **colspan** where needed.  
+- Clear background colours for **Break** and **Clubs**.  
+- Consistent structure across all 5 days.  
+- Accessible table with headings and semantic markup.
+
+---
+
+## 🔍 Accessibility Notes
+- Table headers (`<th>`) are used for **days** and **time slots**.  
+- Break and Clubs are visually distinct with background colours.  
+- Font is easy to read with good contrast.
+
+---
+
+## 📸 Preview
+Once you open the timetable in a browser, take a screenshot and save it as:
+
+This file should be placed in the same folder with `index.html`.
+
+---
+
+## ✅ Validation
+Before submitting:
+1. Check HTML at [W3C HTML Validator](https://validator.w3.org/).  
+2. Check CSS at [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).  
+3. Fix any errors if found.
+
+---
+
+## 📤 Submission
+- Zip the folder `Kapedo_Mrussian` (with all files inside).  
+- Upload the `.zip` file in the assignment submission portal.  
+- Alternatively, share the GitHub repository link.
+
+---
+
+## 🌍 Live Demo (GitHub Pages)
+If enabled, the timetable is live at:
